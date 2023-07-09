@@ -1,0 +1,27 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+nav>ul>li{
+    
+    display: inline ;
+   
+
+}
+
+nav li{
+  margin-right: 20px; 
+  align-items: center;
+
+}
+.spanig{
+    color: coral;
+}
+.btn-primary{
+   color: rgb(255, 255, 255);
+   border: 0px;
+   border-radius: 5px;
+   background-color: coral;
+  
+  padding: 18px 35px;
+}
