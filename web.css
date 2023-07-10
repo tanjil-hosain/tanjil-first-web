@@ -1,6 +1,7 @@
 nav{
     display: flex;
     justify-content: space-between;
+    margin: 0px 150px;
 }
 nav>ul>li{
     
@@ -25,3 +26,15 @@ nav li{
   
   padding: 18px 35px;
 }
+.header{
+  background-color: rgb(244, 241, 212);
+}
+.banner{
+  padding: 30px 30px 30px 150px;
+  display: flex;
+  align-items: center;
+
+}
+.banner .picture{
+width: 500px;
+
